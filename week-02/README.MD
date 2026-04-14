@@ -33,3 +33,22 @@
 
 5. Read 5 numbers and find the largest
    → Ask for 5 numbers and determine the largest using if conditions.
+
+---
+
+### WHILE
+
+1. Simple counting
+   → Use a `while` loop to print numbers from 1 to 10.
+
+2. Sum of numbers
+   → Ask the user to enter numbers until they type 0. Display the sum of all entered numbers.
+
+3. Multiplication table
+   → Ask the user for a number and display its multiplication table from 1 to 10 using a `while` loop.
+
+4. Countdown
+   → Ask the user for a number and display a countdown from that number to 0.
+
+5. Password validation
+   → Ask the user to enter a password until it is correct ("python123"). When correct, display "Access granted".
