@@ -10,10 +10,10 @@ This repository documents my journey learning Python and Data Engineering step b
 
 Focus areas:
 
-* 📚 Strong fundamentals
-* 💻 Hands-on practice
-* 🔥 Logical thinking
-* 🚀 Real-world projects
+- 📚 Strong fundamentals
+- 💻 Hands-on practice
+- 🔥 Logical thinking
+- 🚀 Real-world projects
 
 ---
 
@@ -23,56 +23,56 @@ Focus areas:
 
 ### Week 1 — Basics
 
-* Install Python & VS Code
-* Variables and data types
-* Input and output
-* Logic exercises
-* Simple calculator
+- Install Python & VS Code
+- Variables and data types
+- Input and output
+- Logic exercises
+- Simple calculator
 
 ### Week 2 — Control Flow
 
-* `if`, `elif`, `else`
-* `for` and `while` loops
-* More logic exercises
+- `if`, `elif`, `else`
+- `for` and `while` loops
+- More logic exercises
 
 ### Week 3 — Functions & Data Structures
 
-* Functions
-* Lists
-* Dictionaries
-* Tuples
+- Functions
+- Lists
+- Dictionaries
+- Tuples
 
 ### Week 4 — OOP + API + Database
 
-* Classes & objects
-* FastAPI basics
-* PostgreSQL integration
+- Classes & objects
+- FastAPI basics
+- PostgreSQL integration
 
 🚀 **Project:** Library Management System
 
 ---
 
-## 🔷 Phase 2 — ETL & Data Processing 
+## 🔷 Phase 2 — ETL & Data Processing
 
 ### Week 5 — SQL
 
-* SELECT, WHERE, JOIN
-* Aggregations
+- SELECT, WHERE, JOIN
+- Aggregations
 
 ### Week 6 — Data Analysis
 
-* Pandas
-* NumPy
+- Pandas
+- NumPy
 
 ### Week 7 — ETL
 
-* CSV → PostgreSQL
-* Data cleaning
+- CSV → PostgreSQL
+- Data cleaning
 
 ### Week 8 — APIs & Dashboard
 
-* API consumption
-* Streamlit dashboards
+- API consumption
+- Streamlit dashboards
 
 🚀 **Project:** ETL Pipeline + Dashboard
 
@@ -82,23 +82,23 @@ Focus areas:
 
 ### Week 9 — PySpark
 
-* DataFrames
-* Transformations
+- DataFrames
+- Transformations
 
 ### Week 10 — Large Data Processing
 
-* Optimization
-* Partitioning
+- Optimization
+- Partitioning
 
 ### Week 11 — Airflow
 
-* DAGs
-* Scheduling pipelines
+- DAGs
+- Scheduling pipelines
 
 ### Week 12 — Orchestration
 
-* Automation
-* Monitoring
+- Automation
+- Monitoring
 
 🚀 **Project:** Scalable Data Pipeline
 
@@ -108,47 +108,47 @@ Focus areas:
 
 ### Week 13 — Statistics
 
-* Mean, median, variance
-* Distributions
+- Mean, median, variance
+- Distributions
 
 ### Week 14 — Models
 
-* Regression
-* Classification
+- Regression
+- Classification
 
 ### Week 15 — Evaluation
 
-* Metrics
-* Model tuning
+- Metrics
+- Model tuning
 
 ### Week 16 — Deployment
 
-* API for predictions
-* ML dashboards
+- API for predictions
+- ML dashboards
 
 🚀 **Project:** ML Prediction System
 
 ---
 
-## 🔷 Phase 5 — Deep Learning & AI 
+## 🔷 Phase 5 — Deep Learning & AI
 
 ### Week 17 — Neural Networks
 
-* Basics
-* Activation functions
+- Basics
+- Activation functions
 
 ### Week 18 — Frameworks
 
-* TensorFlow / PyTorch
+- TensorFlow / PyTorch
 
 ### Week 19 — Specialization
 
-* NLP or Computer Vision
+- NLP or Computer Vision
 
 ### Week 20 — Deployment
 
-* Cloud deployment
-* Automation
+- Cloud deployment
+- Automation
 
 🚀 **Project:** AI Application
 
@@ -158,25 +158,25 @@ Focus areas:
 
 ### Week 21 — Code Quality
 
-* Refactoring
-* Clean code
+- Refactoring
+- Clean code
 
 ### Week 22 — Testing
 
-* pytest
-* Debugging
+- pytest
+- Debugging
 
 ### Week 23 — Extra Projects
 
-* Web scraper
-* API projects
-* Chatbot
+- Web scraper
+- API projects
+- Chatbot
 
 ### Week 24 — Career Prep
 
-* Portfolio website
-* GitHub polishing
-* Job applications
+- Portfolio website
+- GitHub polishing
+- Job applications
 
 ---
 
@@ -214,6 +214,8 @@ python-from-zero-to-dev/
 ├── week-22/
 ├── week-23/
 ├── week-24/
+|
+├── challenge/
 │
 └── README.md
 ```
@@ -222,11 +224,11 @@ python-from-zero-to-dev/
 
 ## 🎯 Goals
 
-* Build consistency (daily coding)
-* Master Python fundamentals
-* Work with real data pipelines
-* Build AI systems
-* Become job-ready
+- Build consistency (daily coding)
+- Master Python fundamentals
+- Work with real data pipelines
+- Build AI systems
+- Become job-ready
 
 ---
 
@@ -238,30 +240,30 @@ Python • SQL • PostgreSQL • FastAPI • Pandas • NumPy • PySpark • A
 
 ## 📌 Progress Tracking
 
-* [ ] Week 1
-* [ ] Week 2
-* [ ] Week 3
-* [ ] Week 4
-* [ ] Week 5
-* [ ] Week 6
-* [ ] Week 7
-* [ ] Week 8
-* [ ] Week 9
-* [ ] Week 10
-* [ ] Week 11
-* [ ] Week 12
-* [ ] Week 13
-* [ ] Week 14
-* [ ] Week 15
-* [ ] Week 16
-* [ ] Week 17
-* [ ] Week 18
-* [ ] Week 19
-* [ ] Week 20
-* [ ] Week 21
-* [ ] Week 22
-* [ ] Week 23
-* [ ] Week 24
+- [ ] Week 1
+- [ ] Week 2
+- [ ] Week 3
+- [ ] Week 4
+- [ ] Week 5
+- [ ] Week 6
+- [ ] Week 7
+- [ ] Week 8
+- [ ] Week 9
+- [ ] Week 10
+- [ ] Week 11
+- [ ] Week 12
+- [ ] Week 13
+- [ ] Week 14
+- [ ] Week 15
+- [ ] Week 16
+- [ ] Week 17
+- [ ] Week 18
+- [ ] Week 19
+- [ ] Week 20
+- [ ] Week 21
+- [ ] Week 22
+- [ ] Week 23
+- [ ] Week 24
 
 ---
 
