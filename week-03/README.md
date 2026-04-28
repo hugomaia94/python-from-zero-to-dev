@@ -23,3 +23,17 @@ Update and Add → Create a dictionary with `name` and `age`. Update the value o
 Loop Dictionary → Create a dictionary with at least 3 key-value pairs. Use a loop to display all keys and values in the format: key: value.
 
 Dictionary Operations → Create an empty dictionary. Ask the user to enter 3 keys and their values. Store them in the dictionary. Remove one key chosen by the user. Display the final dictionary.
+
+---
+
+## FUNCTIONS
+
+Create Function → Create a function called `greet` that prints "Hello!". Call the function.
+
+Function with Parameter → Create a function called `greet` that receives a name and prints "Hello, name". Call the function with any name.
+
+Return Sum → Create a function called `sum_numbers` that receives two numbers and returns their sum. Display the result.
+
+Check Even → Create a function called `is_even` that receives a number and returns True if it is even, otherwise False. Display the result.
+
+Function Manager → Create a function called `user_data` that asks the user for name and age, stores them in a dictionary, and returns the dictionary. Then display the result.
