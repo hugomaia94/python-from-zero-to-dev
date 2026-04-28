@@ -1,8 +1,4 @@
-person = {}
-for i in range(3):
-    key = input("Enter a Key: ")
-    value = input("Enter a value: ")
-    person[key] = value
+person = {"name": "Hugo", "age": 32, "profession": "Dev"}
 
-person.pop(input("Enter a key to remove: "))
-print(person)
+for key, value in person.items():
+    print(key, value)
