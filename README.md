@@ -29,11 +29,15 @@ Focus areas:
 - Logic exercises
 - Simple calculator
 
+🚀 Mini-project: Simple Calculator
+
 ### Week 2 — Control Flow
 
 - `if`, `elif`, `else`
 - `for` and `while` loops
 - More logic exercises
+
+🚀 Mini-project: Interactive Terminal Menu
 
 ### Week 3 — Functions & Data Structures
 
@@ -42,12 +46,15 @@ Focus areas:
 - Dictionaries
 - Tuples
 
+🚀 Mini-project: CRUD in Terminal
+
 ### Week 4 — OOP + API + Database
 
 - Classes & objects
 - FastAPI basics
 - PostgreSQL integration
 
+🚀 Mini-project: FastAPI + PostgreSQL System  
 🚀 **Project:** Library Management System
 
 ---
@@ -59,21 +66,28 @@ Focus areas:
 - SELECT, WHERE, JOIN
 - Aggregations
 
+🚀 Mini-project: ETL CSV → PostgreSQL
+
 ### Week 6 — Data Analysis
 
 - Pandas
 - NumPy
+
+🚀 Mini-project: API with Filters + Deploy
 
 ### Week 7 — ETL
 
 - CSV → PostgreSQL
 - Data cleaning
 
+🚀 Mini-project: Data Dashboard (Streamlit)
+
 ### Week 8 — APIs & Dashboard
 
 - API consumption
 - Streamlit dashboards
 
+🚀 Mini-project: Automated ETL Pipeline + Logs + API Integration  
 🚀 **Project:** ETL Pipeline + Dashboard
 
 ---
@@ -85,21 +99,28 @@ Focus areas:
 - DataFrames
 - Transformations
 
+🚀 Mini-project: PySpark Pipeline (>1GB data)
+
 ### Week 10 — Large Data Processing
 
 - Optimization
 - Partitioning
+
+🚀 Mini-project: Airflow DAG + Automated Pipeline
 
 ### Week 11 — Airflow
 
 - DAGs
 - Scheduling pipelines
 
+🚀 Mini-project: Automated Dashboard + Optimized Queries
+
 ### Week 12 — Orchestration
 
 - Automation
 - Monitoring
 
+🚀 Mini-project: Scalable Data Pipeline  
 🚀 **Project:** Scalable Data Pipeline
 
 ---
@@ -111,21 +132,28 @@ Focus areas:
 - Mean, median, variance
 - Distributions
 
+🚀 Mini-project: Basic ML Model + Metrics
+
 ### Week 14 — Models
 
 - Regression
 - Classification
+
+🚀 Mini-project: Full ML Pipeline + Saved Model
 
 ### Week 15 — Evaluation
 
 - Metrics
 - Model tuning
 
+🚀 Mini-project: ML API (FastAPI + Predict Endpoint)
+
 ### Week 16 — Deployment
 
 - API for predictions
 - ML dashboards
 
+🚀 Mini-project: ML Dashboard (Streamlit)  
 🚀 **Project:** ML Prediction System
 
 ---
@@ -137,19 +165,26 @@ Focus areas:
 - Basics
 - Activation functions
 
+🚀 Mini-project: Deep Learning Model (NLP or CV)
+
 ### Week 18 — Frameworks
 
 - TensorFlow / PyTorch
 
+🚀 Mini-project: AI Pipeline + Airflow + Cloud Deploy
+
 ### Week 19 — Specialization
 
 - NLP or Computer Vision
+
+🚀 Mini-project: AI Dashboard + Fine-tuning
 
 ### Week 20 — Deployment
 
 - Cloud deployment
 - Automation
 
+🚀 Mini-project: Complete AI System  
 🚀 **Project:** AI Application
 
 ---
@@ -161,22 +196,34 @@ Focus areas:
 - Refactoring
 - Clean code
 
+🚀 Focus: Improve all previous projects
+
 ### Week 22 — Testing
 
 - pytest
 - Debugging
 
+🚀 Mini-projects:
+
+- Web Scraper (BeautifulSoup/Selenium)
+- Real-time Price API (WebSocket)
+- Chatbot with RAG
+- Real-time Dashboard (Kafka + Streamlit)
+
 ### Week 23 — Extra Projects
 
-- Web scraper
-- API projects
-- Chatbot
+- Documentation
+- Portfolio building
+
+🚀 Mini-project: Portfolio Website (GitHub Pages)
 
 ### Week 24 — Career Prep
 
 - Portfolio website
 - GitHub polishing
 - Job applications
+
+🚀 Focus: Apply for jobs + interview prep
 
 ---
 
@@ -185,6 +232,8 @@ Focus areas:
 ```
 python-from-zero-to-dev/
 │
+├── challenge/
+|
 ├── week-01/
 ├── week-02/
 ├── week-03/
@@ -215,7 +264,6 @@ python-from-zero-to-dev/
 ├── week-23/
 ├── week-24/
 |
-├── challenge/
 │
 └── README.md
 ```
@@ -242,7 +290,7 @@ Python • SQL • PostgreSQL • FastAPI • Pandas • NumPy • PySpark • A
 
 - [x] Week 1
 - [x] Week 2
-- [ ] Week 3
+- [x] Week 3
 - [ ] Week 4
 - [ ] Week 5
 - [ ] Week 6
