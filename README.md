@@ -73,8 +73,9 @@ Become a Data Engineer capable of building scalable data pipelines, APIs, and da
 python-from-zero-to-dev/
 │
 ├── challenge/
-├──── crud-system
-├──── interactive-cli-menu
+│   ├── crud-system
+│   ├── interactive-cli-menu
+│   └── ...
 │
 ├── week-01/
 ├── week-02/
