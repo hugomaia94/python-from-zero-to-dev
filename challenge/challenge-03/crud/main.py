@@ -10,6 +10,7 @@ while True:
 
         for i in range(user):
             db.create_user()
+            print("\n")
 
     elif option == "2":
         all_users = db.get_all_users()
@@ -18,3 +19,5 @@ while True:
             print(
                 f"\n ID:{user_id}\n Name:{dados['name']}\n Age:{dados['age']}\n E_mail:{dados['e_mail']}\n____________\n"
             )
+    elif option == "3":
+        db.update_user()
