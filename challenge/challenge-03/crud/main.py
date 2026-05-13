@@ -23,3 +23,7 @@ while True:
         db.update_user()
     elif option == "4":
         db.delete_user()
+    elif option == "5":
+        break
+    else:
+        print(f"\nPlease enter a valid option.\n")
