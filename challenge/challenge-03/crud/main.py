@@ -21,3 +21,5 @@ while True:
             )
     elif option == "3":
         db.update_user()
+    elif option == "4":
+        db.delete_user()
