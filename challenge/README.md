@@ -1,32 +1,27 @@
-# 🧩 Challenge Repository
+# 🧩 Challenges and Exercises
 
-This repository was created to store and organize programming challenges completed during my learning journey.
+This folder contains programming challenges and exercises completed during my learning journey.
 
 ---
 
 ## 📚 Purpose
 
-The main goal of this repository is to:
+The goal of these challenges is to:
 
 - Practice programming concepts
 - Improve problem-solving skills
-- Track my progress over time
-- Keep solutions organized by topic or week
+- Reinforce Python fundamentals
+- Track learning progress over time
 
 ---
 
-## 🗂️ Repository Structure
+## 🗂️ Structure
 
-The project is organized by weeks and challenges to make navigation easier:
+The content is organized by weeks and challenges:
 
 ```
 
 challenge/
-│
-├── challenge-01/
-│   ├── challenge-week-01.md/
-│   ├── challenge-week-01.py/
-│   └── ...
 │
 ├── challenge-02/
 │   ├── challenge-week-02.md/
@@ -37,53 +32,16 @@ challenge/
 
 ```
 
-Each folder may contain:
+Each challenge folder may include:
 
-- Source code solutions
+- Source code implementations
 - Problem descriptions
-- Notes or explanations
+- Notes and explanations
 
 ---
 
-## 🚀 Technologies
+## 🚀 Note
 
-- Python 🐍
+These are practice exercises and may not follow full project structure standards.
 
----
-
-## 🧠 Topics Covered
-
-- Variables and data types
-- Conditional statements (`if`, `else`)
-- Loops (`while`, `for`)
-- Functions
-- User input handling
-
----
-
-## 📌 How to Use
-
-1. Navigate to a specific week
-2. Open a challenge folder
-3. Read the problem description
-4. Try solving it before checking the solution
-
----
-
-## 📈 Progress
-
-- ✅ Week 1 completed
-- ✅ Week 2 completed
-- ⏳ More challenges coming soon
-
----
-
-## 🤝 Contributing
-
-This is a personal learning repository, but suggestions are always welcome.
-
----
-
-## 📄 License
-
-This project is for learning purposes only.
+For more complete and structured projects, check the main folders inside each week.
