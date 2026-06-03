@@ -23,3 +23,38 @@
 **Product CRUD →** Create a file `product_crud.py` with three functions: `insert_product(name, price, stock)` to insert a new product, `update_price(product_id, new_price)` to update the price of a product by id, and `delete_product(product_id)` to delete a product by id. Each function must open and close the connection on its own.
 
 **Search by Price →** Create a file `search_by_price.py` with a function `search_by_price(min_price, max_price)` that fetches all products with a price between the two given values using `WHERE price BETWEEN %s AND %s` and prints each result formatted.
+
+## Extra Exercises — Day 3
+
+**Create Users Table →** Create a file `create_users_table.py` that creates a table `users` with the columns `id`, `name`, and `email`. Print `"Table created successfully!"` at the end.
+
+**Insert User →** Create a file `insert_user.py` with a function `insert_user(name, email)` that inserts a new user into the `users` table and prints `"User inserted successfully!"`.
+
+**Get All Users →** Create a file `get_all_users.py` with a function `get_all_users()` that fetches all users from the `users` table and prints each one formatted with `id`, `name`, and `email`.
+
+**Delete User →** Create a file `delete_user.py` with a function `delete_user(user_id)` that deletes a user by `id` and prints `"User deleted successfully!"`. If no user is found, print `"User not found."`.
+
+**Update Email →** Create a file `update_email.py` with a function `update_email(user_id, new_email)` that updates the email of a user by `id` and prints `"Email updated successfully!"`.
+
+**Search by Name →** Create a file `search_by_name.py` with a function `search_by_name(name)` that fetches all users whose name contains the searched term using `WHERE name ILIKE %s` and prints each result formatted.
+
+**Count Products →** Create a file `count_products.py` with a function `count_products()` that returns and prints the total number of products in the `products` table using `SELECT COUNT(*) FROM products`.
+
+**Low Stock Products →** Create a file `low_stock.py` with a function `get_low_stock_products(limit)` that fetches all products where `stock` is less than or equal to the given limit using `WHERE stock <= %s`, and prints each one formatted. Test with `limit = 20`.
+
+**Most Expensive Products →** Create a file `most_expensive.py` with a function `get_most_expensive(quantity)` that fetches the most expensive products using `ORDER BY price DESC LIMIT %s` and prints each one formatted. Test with `quantity = 3`.
+
+**Product Report →** Create a file `product_report.py` with a function `generate_report()` that prints a complete report of the `products` table containing:
+
+- Total number of products using `COUNT(*)`
+- Most expensive product using `MAX(price)`
+- Cheapest product using `MIN(price)`
+- Average price using `AVG(price)`
+- Total stock using `SUM(stock)`
+
+All in a single query using:
+
+```sql
+SELECT COUNT(*), MAX(price), MIN(price), AVG(price), SUM(stock)
+FROM products;
+```
