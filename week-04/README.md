@@ -24,7 +24,7 @@
 
 **Search by Price →** Create a file `search_by_price.py` with a function `search_by_price(min_price, max_price)` that fetches all products with a price between the two given values using `WHERE price BETWEEN %s AND %s` and prints each result formatted.
 
-### Extra Exercises — Day 3
+### Extra Exercises PostgreSQL
 
 **Create Users Table →** Create a file `create_users_table.py` that creates a table `users` with the columns `id`, `name`, and `email`. Print `"Table created successfully!"` at the end.
 
